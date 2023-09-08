@@ -1,0 +1,3 @@
+project_name: "myproject"
+create_file: "myproject.yml"
+ansible_root: "/var/lib/awx/projects"
